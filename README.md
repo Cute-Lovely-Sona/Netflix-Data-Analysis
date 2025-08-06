@@ -87,7 +87,7 @@ The project covers:
 
 ## 📸 Sample Visualizations
 
-[Add PDF files are hosted on](https://drive.google.com/file/d/1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U/view?usp=sharing). Click the links to view visualizations.
+[Add Netflix PDF files are hosted on](https://drive.google.com/file/d/1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U/view?usp=sharing). Click the links to view visualizations.
 
 **Content Over Time**  
 ![View](https://drive.google.com/uc?id=1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U)  
