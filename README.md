@@ -1,5 +1,5 @@
 # 🎬 Netflix Data Cleaning & Exploratory Data Analysis (EDA)
-[View Banner Image](https://drive.google.com/file/d/1MmL7Sh1MNzsC2E0KV_EbVXcTT0W2TzoE/view?usp=sharing)
+![Netflix](https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg)
 
 This project demonstrates my end-to-end data analysis skills using the Netflix dataset. It is structured into two key phases — **Data Cleaning** and **Exploratory Data Analysis** — to prepare, analyze, and derive insights from real-world data.
 
