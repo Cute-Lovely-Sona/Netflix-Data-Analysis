@@ -1,64 +1,93 @@
-# 🍿 Netflix Data Cleaning and Exploratory Data Analysis (EDA)
+# 🎬 Netflix Data Cleaning & Exploratory Data Analysis (EDA)
 
-This project focuses on analyzing the Netflix dataset using Python. It is divided into two major parts: **Data Cleaning** and **Exploratory Data Analysis**. The goal is to understand content trends, uncover patterns in movie/show additions, and identify popular genres, countries, and more.
-
----
-
-## 📁 Project Structure
-
+This project demonstrates my end-to-end data analysis skills using the Netflix dataset. It is structured into two key phases — **Data Cleaning** and **Exploratory Data Analysis** — to prepare, analyze, and derive insights from real-world data.
 
 ---
 
-## 📌 Objective
+## 🚀 Project Overview
 
-- Clean raw Netflix dataset to make it analysis-ready
-- Perform EDA to identify trends in content type, genre, release year, country, etc.
-- Visualize the results using Python libraries
+Netflix, one of the leading streaming platforms globally, hosts thousands of titles including movies and TV shows. This project explores the Netflix catalogue to uncover patterns in content distribution, genre trends, and temporal behavior of title additions.
 
----
+The project covers:
 
-## 📦 Tools & Libraries
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Colab Notebook
+- Cleaning raw Netflix data to make it analysis-ready
+- Identifying trends in content type, release dates, genres, and more
+- Visualizing insights through compelling charts
 
 ---
 
-## 🧹 Part 1: Data Cleaning
+## 🧠 Key Business Questions
 
-Performed in `Netflix_Data_Cleaning.ipynb`, including:
-
-- Dropping duplicates
-- Handling missing values
-- Converting date columns to datetime format
-- Splitting multi-value columns (like cast, director)
-- Fixing data types (e.g., duration column)
+- How has Netflix's content grown over the years?
+- What is the distribution between Movies and TV Shows?
+- Which countries produce the most Netflix content?
+- What genres dominate the platform?
+- Who are the most frequent actors and directors?
 
 ---
 
-## 📊 Part 2: Exploratory Data Analysis
+## 📊 Summary of Insights
 
-Performed in `Netflix_EDA_Analysis.ipynb`, including visual answers to:
-
-- 📆 **What is the trend of Netflix content addition over years?**
-- 🎬 **What is the ratio of Movies vs TV Shows?**
-- 🌍 **Which countries produce the most Netflix content?**
-- 👩‍🎤 **Top actors and directors in Netflix content**
-- 🕐 **Distribution of content by duration**
-- 🏷 **Most common genres and categories**
+✔️ **Movies** constitute over 70% of the platform’s content  
+✔️ Most content was added in **2019–2020**, indicating rapid expansion  
+✔️ **USA** dominates in content production, followed by **India**  
+✔️ **Drama** and **Comedies** are the most popular genres  
+✔️ Netflix favors **short-duration content** for TV Shows  
+✔️ A few directors and actors repeatedly appear across titles
 
 ---
 
-## 🔍 Key Insights
+## 🛠️ Tools & Technologies Used
 
-- **Movies** dominate Netflix's content, with ~70% share.
-- Netflix content addition peaked in **2019 and 2020**.
-- **USA** leads in content production, followed by India and the UK.
-- **Drama** is the most common genre.
-- A few directors and actors have contributed heavily to the platform.
-- Most TV Shows have **shorter episode durations**, while movies vary widely.
+- **Python**
+- **Pandas** – data manipulation
+- **NumPy** – numerical operations
+- **Matplotlib** & **Seaborn** – data visualization
+- **Jupyter Notebook** – interactive development
 
+---
+
+## 🧹 Phase 1: Data Cleaning (`Netflix_Data_Cleaning.ipynb`)
+
+> 📌 Objective: Clean and prepare the dataset for analysis
+
+**Steps Performed:**
+- Removed duplicates and missing values
+- Converted date columns to datetime format
+- Standardized column formats and string values
+- Separated combined columns (e.g., multiple genres or cast members)
+- Cleaned `duration`, `rating`, and categorical columns
+
+---
+
+## 📈 Phase 2: Exploratory Data Analysis (`Netflix_EDA_Analysis.ipynb`)
+
+> 📌 Objective: Analyze content trends and answer key questions
+
+**Key Analyses Included:**
+- Year-wise content addition trend
+- Distribution of content type (Movie vs TV Show)
+- Top 10 countries with the most content
+- Most frequent genres using exploded columns
+- Top 10 directors and actors with the highest appearances
+- Duration comparison between Movies and TV Shows
+- Heatmaps and bar charts for visual storytelling
+
+---
+
+## 📂 Dataset Information
+
+- **Source**: [Kaggle – Netflix Movies and TV Shows Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+- **Rows**: ~6,000+ entries
+- **Columns**: Show ID, Title, Type, Country, Date Added, Release Year, Duration, Genre, Cast, Director, etc.
+
+---
+
+## 📸 Sample Visualizations
+
+_(Add image files in `/images/` folder and link them here)_
+
+```markdown
+![Content Over Time](images/content_over_years.png)
+![Top Genres](images/top_genres.png)
+![Movie vs TV](images/type_distribution.png)
