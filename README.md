@@ -24,7 +24,7 @@ This project focuses on analyzing the Netflix dataset using Python. It is divide
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+- Colab Notebook
 
 ---
 
