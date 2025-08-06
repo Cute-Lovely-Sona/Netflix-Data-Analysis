@@ -89,12 +89,11 @@ The project covers:
 
 [Add Netflix PDF files are hosted on](https://drive.google.com/file/d/1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U/view?usp=sharing). Click the links to view visualizations.
 
+**Content Over Time**  
+![View](https://drive.google.com/uc?id=1IOuNj0pTfaSBUc0aTaM2oFnuHL08duyY) 
 
 **Top Genres**  
-![View](https://drive.google.com/uc?id=13BBtD0Wkmxnk8j1hML0gN0PHAGZnwcNU)  
-
-**Content Over Time**  
-![View](https://drive.google.com/uc?id=1IOuNj0pTfaSBUc0aTaM2oFnuHL08duyY)  
+![View](https://drive.google.com/uc?id=13BBtD0Wkmxnk8j1hML0gN0PHAGZnwcNU)   
 
 **Bonus Visualization**  
 ![View](https://drive.google.com/uc?id=17H26nlufXXvfKrM848ccMl2W2U-X8p72)
