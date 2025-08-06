@@ -64,13 +64,6 @@ Performed in `Netflix_EDA_Analysis.ipynb`, including visual answers to:
 
 ---
 
-## 📸 Sample Visuals
-
-_Add images from your EDA notebook here by exporting graphs and saving in an `/images/` folder._
-
-```markdown
-
-
 ---
 
 ## 🛠 Next Steps
