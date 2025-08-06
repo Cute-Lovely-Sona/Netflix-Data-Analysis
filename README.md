@@ -85,7 +85,7 @@ The project covers:
 
 ## 📸 Sample Visualizations
 
-_(Image files are hosted on Google Drive. Click the links to view visualizations.)_
+[Add PDF files are hosted on](https://drive.google.com/file/d/1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U/view?usp=sharing). Click the links to view visualizations.
 
 **Content Over Time**  
 ![View](https://drive.google.com/uc?id=1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U)  
