@@ -85,9 +85,20 @@ The project covers:
 
 ## 📸 Sample Visualizations
 
-_(Add image files in `[/images/](https://drive.google.com/file/d/1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U/view?usp=sharing)` folder and link them here)_
+_(Image files are hosted on Google Drive. Click the links to view visualizations.)_
 
-```markdown
-![Content Over Time](images/content_over_years.png)
-![Top Genres](images/top_genres.png)
-![Movie vs TV](images/type_distribution.png)
+**Content Over Time**  
+![View](https://drive.google.com/uc?id=1N5j3xPq79R1aiR2Vd0Uh45nB7REQbQ0U)  
+
+**Top Genres**  
+![View](https://drive.google.com/uc?id=13BBtD0Wkmxnk8j1hML0gN0PHAGZnwcNU)  
+
+**Movie vs TV**  
+![View](https://drive.google.com/uc?id=1pst9rgKOOON_gaChV0fGOJHWE_uXEyu0)  
+
+**Alternate Content Trend**  
+![View](https://drive.google.com/uc?id=1IOuNj0pTfaSBUc0aTaM2oFnuHL08duyY)  
+
+**Bonus Visualization**  
+![View](https://drive.google.com/uc?id=17H26nlufXXvfKrM848ccMl2W2U-X8p72)
+
