@@ -93,12 +93,12 @@ The project covers:
 **Top Genres**  
 ![View](https://drive.google.com/uc?id=13BBtD0Wkmxnk8j1hML0gN0PHAGZnwcNU)  
 
-**Movie vs TV**  
-![View](https://drive.google.com/uc?id=1pst9rgKOOON_gaChV0fGOJHWE_uXEyu0)  
-
 **Content Over Time**  
 ![View](https://drive.google.com/uc?id=1IOuNj0pTfaSBUc0aTaM2oFnuHL08duyY)  
 
 **Bonus Visualization**  
 ![View](https://drive.google.com/uc?id=17H26nlufXXvfKrM848ccMl2W2U-X8p72)
+
+**Movie vs TV**  
+![View](https://drive.google.com/uc?id=1pst9rgKOOON_gaChV0fGOJHWE_uXEyu0)  
 
